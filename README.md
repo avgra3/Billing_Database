@@ -24,4 +24,4 @@ The purpose of this database is to create a billing solution for telecommunicati
 
 ### Database Details
 
-MySQL: 8.0.21 _(community edition)
+MySQL: 8.0.21 _(community edition).
